@@ -15,6 +15,7 @@ namespace Réclamation_client
         static void Main()
         {
             Application.EnableVisualStyles();
+            //bbbbbbbb
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
         }
